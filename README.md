@@ -110,6 +110,7 @@ Meu objetivo é construir uma base sólida em **ciência da computação aplicad
 ## 📬 Contato
 
 email: jmateussc2706@gmail.com
+
 Sinta-se à vontade para explorar os repositórios, abrir issues ou sugerir melhorias.
 
 > Este perfil está em constante evolução, acompanhando minha trajetória acadêmica e profissional.
