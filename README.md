@@ -29,9 +29,8 @@ Cálculo • Álgebra Linear • Probabilidade & Estatística aplicadas a IA
 
 ## 📂 Projetos em Destaque
 
-🔹 **API de Cadastro de Pessoas** - REST API completa com validações e persistência  
 🔹 **Automação Web** - Scripts com Selenium para testes e tarefas repetitivas  
-🔹 **ML do Zero** - Implementações próprias de algoritmos com visualização de dados
+🔹 **ML do Zero** - Implementações próprias de algoritmos com visualização de dados (Em andamento)
 
 ---
 
