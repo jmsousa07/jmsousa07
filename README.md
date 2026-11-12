@@ -12,7 +12,7 @@ Construindo sistemas escaláveis com foco em **engenharia de software** e **inte
 APIs RESTful em Java • Arquitetura em camadas • Automação com Python e Selenium
 
 **Machine Learning**  
-Implementações matemáticas do zero • Regressão linear • Gradiente descendente • Análise de dados
+Base matemática do zero • Supervised Learning • Unsupervised Learning • Análise de dados • LLM/Agents (em andamento)
 
 **Fundamentos**  
 Cálculo • Álgebra Linear • Probabilidade & Estatística aplicadas a IA
