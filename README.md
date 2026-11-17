@@ -29,8 +29,8 @@ Cálculo · Álgebra Linear · Cálculo Numérico · Probabilidade e Estatístic
 |---|---|
 | IA / ML | Python, pandas, NumPy, OpenCV, MediaPipe |
 | Linguagens | Python · Java · C · SQL |
-| Backend e dados | Spring Boot, PostgreSQL, MySQL, Flyway, OpenAPI |
-| Frontend | Next.js, React, TypeScript, Tailwind |
+| Backend e dados | Spring Boot, PostgreSQL, MySQL, OpenAPI |
+| Frontend | React, TypeScript, Tailwind |
 | Ferramentas | Git, Linux, Selenium |
 
 ---
